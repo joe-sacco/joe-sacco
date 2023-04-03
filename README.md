@@ -85,7 +85,7 @@ Ondo is an IoT device and online service that allows health care workers to moni
 
 
 
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="ondo render app" />](https://ondo.onrender.com/)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="ondo render app" />](https://www.ondo-app.com/)
 
 <div align="center">
 
