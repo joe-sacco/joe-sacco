@@ -23,9 +23,9 @@ Adept at team collaboration and management from 15 years working as a Creative V
 
 <div>
     <h4> Backend </h4>
+    <img src="https://img.shields.io/badge/Django-044c34?style=for-the-badge&logo=django&logoColor=white" alt="django" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-    <img src="https://img.shields.io/badge/Django-044c34?style=for-the-badge&logo=django&logoColor=white" alt="django" />
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi" />
     <img src="https://img.shields.io/badge/Knex.js-2a2421?style=for-the-badge&logo=&logoColor=white" alt="knex.js" />    
 </div>
@@ -34,47 +34,17 @@ Adept at team collaboration and management from 15 years working as a Creative V
     <h4> Other </h4>
     <img src="https://img.shields.io/badge/Docker-0874ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=&logoColor=white" alt="rest api" />
     <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha" />
     <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" akt="chai">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=&logoColor=white" alt="rest api" />
     <img src="https://img.shields.io/badge/Agile_Methodology-FFFF00?style=for-the-badge&logo=&logoColor=white" alt="agile methodology" />
 </div>
+<br />
+<br />
 
-
-## Stats
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=joe-sacco&count_private=true&show_icons=true&theme=swift&line_height=20&card_width=300" align="center" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sacco&count_private=true&layout=compact&theme=swift" align="center" />
-    </a>
-</div>
-<!--
-&nbsp;
-<div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-sacco&theme=nord_bright" width="250" align="center" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-sacco&theme=nord_bright" width="250" align="center" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joe-sacco&theme=nord_bright&utcOffset=9" width="250" align="center" />
-    </a>
-</div>
--->
-
-&nbsp;
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=joe-sacco&theme=oldie&count_private=true&column=6&no-frame=true&margin-w=10" align="center" />
-  </a>
-</div>
 
 
 ## Projects
@@ -90,11 +60,22 @@ Ondo is an IoT device and online service that allows health care workers to moni
 <div align="center">
 
 
-
 <a href="https://vimeo.com/766400958/29769edc0d" target="_blank">
         <img width="494" alt="ondo_hardware_title_screen" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/593e352c-de9a-4e64-a39f-62755db485cf.gif?ClientID=vimeo-core-prod&Date=1667394034&Signature=51db6ef410f09db6d41fc2e8c100999bde2d36e9">
     </a>
 <img width="458" alt="ondo_temp_screen" src="https://user-images.githubusercontent.com/102517425/199505425-e341cf95-f987-441b-a281-5360e0d2ea8e.png">
+</div>
+
+
+### easyPoints
+A custom built Shopifiy rewards program that leverages customer loyalty and fuels e-commerce growth.
+
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="easyPoints app" />](https://apps.shopify.com/easy-points)
+
+<div align="center">
+<a href="https://apps.shopify.com/easy-points" target="_blank">
+    <img src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
+</a>
 </div>
 
 
@@ -106,7 +87,7 @@ Chime is a wind controlled IoT electronic chime device that connects to the inte
 
 <div align="center">
         <img width="150" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199497913-2bdfa119-26de-4ba1-b9f7-0714b8bb21d0.png">
-        <img width="250" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199499182-6c399c3c-68ba-4b87-b388-854148c1d0d9.png">
+
 </div>
 
 
@@ -139,16 +120,5 @@ A photo sorting app using facial recognition that gives parents wanting to sort 
 
 <!--
 **joe-sacco/joe-sacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
