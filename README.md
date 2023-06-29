@@ -68,16 +68,27 @@ Ondo is an IoT device and online service that allows health care workers to moni
 
 
 ### easyPoints
-A custom built Shopifiy rewards program that leverages customer loyalty and fuels e-commerce growth.
+A custom built Shopify rewards program that leverages customer loyalty and fuels e-commerce growth.
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="easyPoints app" />](https://apps.shopify.com/easy-points)
 
 <div align="center">
 <a href="https://apps.shopify.com/easy-points" target="_blank">
-    <img src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
+    <img width="960" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
 </a>
 </div>
 
+### mymizu
+A free water refill app - we’re building a world with cleaner oceans, healthier ecosystems and happier people.
+
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mymizu app" />](https://map.mymizu.co/)
+
+<div> 
+<a href="https://map.mymizu.co/" target="_blank">
+    <img width="458" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/9459fc27-54d2-4da3-86f4-d52b5b3df7a2" alt="mymizu logo">
+    <img width="458" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/9d319c46-3ba6-4ab8-bcfc-4b2ec57cf6f8" alt="mymizu map">
+</a>
+</div>
 
 
 ### Chime
@@ -87,8 +98,9 @@ Chime is a wind controlled IoT electronic chime device that connects to the inte
 
 <div align="center">
         <img width="150" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199497913-2bdfa119-26de-4ba1-b9f7-0714b8bb21d0.png">
-
+        <img width="250" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199499182-6c399c3c-68ba-4b87-b388-854148c1d0d9.png">
 </div>
+
 
 
 
@@ -104,6 +116,7 @@ A convenient search tool for finding the closest bathroom to your location immed
 <img width="180" alt="iOS_app-screen2_LAVI_230315" src="https://user-images.githubusercontent.com/102517425/225242202-5ff6c807-8c28-4c22-b7b2-cb9b97ee8d7c.png">
 </div>
 
+<!--
 ### Sorted!  (app in progress)
 A photo sorting app using facial recognition that gives parents wanting to sort their kid's photos a more convenient and safe alternative to big brand photo album applications.
 
@@ -111,7 +124,7 @@ A photo sorting app using facial recognition that gives parents wanting to sort 
         <img width="450" alt="iOS_app-screen2" src="https://user-images.githubusercontent.com/102517425/199513141-3c532c80-43f4-47ed-b779-18d75237d348.png">
   
 </div>
-
+-->
 
 
 ## Contact
@@ -121,4 +134,3 @@ A photo sorting app using facial recognition that gives parents wanting to sort 
 <!--
 **joe-sacco/joe-sacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
