@@ -61,9 +61,9 @@ Ondo is an IoT device and online service that allows health care workers to moni
 
 
 <a href="https://vimeo.com/766400958/29769edc0d" target="_blank">
-        <img width="494" alt="ondo_hardware_title_screen" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/593e352c-de9a-4e64-a39f-62755db485cf.gif?ClientID=vimeo-core-prod&Date=1667394034&Signature=51db6ef410f09db6d41fc2e8c100999bde2d36e9">
+        <img width="356" alt="ondo_hardware_title_screen" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/593e352c-de9a-4e64-a39f-62755db485cf.gif?ClientID=vimeo-core-prod&Date=1667394034&Signature=51db6ef410f09db6d41fc2e8c100999bde2d36e9">
     </a>
-<img width="458" alt="ondo_temp_screen" src="https://user-images.githubusercontent.com/102517425/199505425-e341cf95-f987-441b-a281-5360e0d2ea8e.png">
+<img width="330" alt="ondo_temp_screen" src="https://user-images.githubusercontent.com/102517425/199505425-e341cf95-f987-441b-a281-5360e0d2ea8e.png">
 </div>
 
 
@@ -74,7 +74,7 @@ A custom built Shopify rewards program that leverages customer loyalty and fuels
 
 <div align="center">
 <a href="https://apps.shopify.com/easy-points" target="_blank">
-    <img width="960" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
+    <img width="680" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
 </a>
 </div>
 
@@ -83,10 +83,10 @@ A free water refill app - we’re building a world with cleaner oceans, healthie
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mymizu app" />](https://map.mymizu.co/)
 
-<div> 
+<div align="center"> 
 <a href="https://map.mymizu.co/" target="_blank">
-    <img width="458" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/9459fc27-54d2-4da3-86f4-d52b5b3df7a2" alt="mymizu logo">
-    <img width="458" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/9d319c46-3ba6-4ab8-bcfc-4b2ec57cf6f8" alt="mymizu map">
+    <img width="350" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/9459fc27-54d2-4da3-86f4-d52b5b3df7a2" alt="mymizu logo">
+    <img width="350" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/9d319c46-3ba6-4ab8-bcfc-4b2ec57cf6f8" alt="mymizu map">
 </a>
 </div>
 
