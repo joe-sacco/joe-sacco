@@ -60,7 +60,7 @@ A creative writing app that eliminates writers block by challenging users to wri
 <br/>
 
 ## easyPoints
-### Full Stack Engineer
+### Full Stack Engineer _- current_
 #### _JavaScript, React, Elixir, Phoenix_
 A custom built Shopify rewards program that leverages customer loyalty and fuels e-commerce growth.
 
@@ -91,7 +91,7 @@ Ondo is an IoT device and online service that allows health care workers to moni
 <br/>
 
 ## mymizu
-### Frontend Engineer
+### Frontend Engineer _- hackathon_
 #### _JavaScript, React_
 A free water refill app - we’re building a world with cleaner oceans, healthier ecosystems and happier people.
 
