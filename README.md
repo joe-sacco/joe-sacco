@@ -4,9 +4,9 @@ I'm a bilingual Full Stack Software Developer and Creative Technologist, with a 
 
 Adept at team collaboration and management from 15 years working as a Creative Video Producer, I love working with teams on projects that challenge me professionally, and spark positive change in the way people interact with technology.
 
-## Skills
+# Skills
 
-### Language
+## Language
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -15,14 +15,14 @@ Adept at team collaboration and management from 15 years working as a Creative V
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 </div>
 
-### Frameworks & Library
+## Frameworks & Library
 <div>
-    <h4> Frontend </h4>
+    <h3> Frontend </h3>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react.js" />
 </div>
 
 <div>
-    <h4> Backend </h4>
+    <h3> Backend </h3>
     <img src="https://img.shields.io/badge/Django-044c34?style=for-the-badge&logo=django&logoColor=white" alt="django" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
@@ -31,7 +31,7 @@ Adept at team collaboration and management from 15 years working as a Creative V
 </div>
 
 <div>
-    <h4> Other </h4>
+    <h3> Other </h3>
     <img src="https://img.shields.io/badge/Docker-0874ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
@@ -47,69 +47,87 @@ Adept at team collaboration and management from 15 years working as a Creative V
 
 
 
-## Projects
-### Ondo
+# Projects
+
+## Kataru
+### **Full Stack Engineer - _current_**
+#### _Python, Django, Postgres, Typescript, React_
+A creative writing app that eliminates writers block by challenging users to write daily through thought provoking prompts, rewarding them as they progress.
+
+<div>
+<img width="680" alt="kataru-homepage" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/fb120d61-db11-4426-96b6-16a93874b9cc">
+</div>
+<br/>
+
+## easyPoints
+### Full Stack Engineer
+#### _JavaScript, React, Elixir, Phoenix_
+A custom built Shopify rewards program that leverages customer loyalty and fuels e-commerce growth.
+
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="easyPoints app" />](https://apps.shopify.com/easy-points)
+
+<div>
+<a href="https://apps.shopify.com/easy-points" target="_blank">
+    <img width="680" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
+</a>
+</div>
+<br/>
+
+## Ondo
+### **Full Stack Engineer, Hardware Engineer, Product Owner**
+#### _Python, FastAPI, Raspberry Pi, Typescript, React_
 Ondo is an IoT device and online service that allows health care workers to monitor the temperature and humidity of elderly homes in order to ensure their safety during hot and cold months. Provides live SMS notifications when conditions inside the home become life threatening.
 
 [<img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="ondo github repository" />](https://github.com/team-ondo)
 
-
-
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="ondo render app" />](https://www.ondo-app.com/)
 
-<div align="center">
-
-
+<div>
 <a href="https://vimeo.com/766400958/29769edc0d" target="_blank">
         <img width="356" alt="ondo_hardware_title_screen" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/593e352c-de9a-4e64-a39f-62755db485cf.gif?ClientID=vimeo-core-prod&Date=1667394034&Signature=51db6ef410f09db6d41fc2e8c100999bde2d36e9">
     </a>
 <img width="330" alt="ondo_temp_screen" src="https://user-images.githubusercontent.com/102517425/199505425-e341cf95-f987-441b-a281-5360e0d2ea8e.png">
 </div>
+<br/>
 
-
-### easyPoints
-A custom built Shopify rewards program that leverages customer loyalty and fuels e-commerce growth.
-
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="easyPoints app" />](https://apps.shopify.com/easy-points)
-
-<div align="center">
-<a href="https://apps.shopify.com/easy-points" target="_blank">
-    <img width="680" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
-</a>
-</div>
-
-### mymizu
+## mymizu
+### Frontend Engineer
+#### _JavaScript, React_
 A free water refill app - we’re building a world with cleaner oceans, healthier ecosystems and happier people.
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mymizu app" />](https://map.mymizu.co/)
 
-<div align="center"> 
+<div> 
 <a href="https://map.mymizu.co/" target="_blank">
     <img width="350" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/9459fc27-54d2-4da3-86f4-d52b5b3df7a2" alt="mymizu logo">
     <img width="350" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/9d319c46-3ba6-4ab8-bcfc-4b2ec57cf6f8" alt="mymizu map">
 </a>
 </div>
+<br/>
 
-
-### Chime
+## Chime
+### Full Stack Engineer, Hardware Engineer
+#### _Python, FastAPI, JavaScript, React, Arduino/C++_
 Chime is a wind controlled IoT electronic chime device that connects to the internet allowing users to remotely select various musical scales.
 
 [<img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="chime github repository" />](https://github.com/joe-sacco/chime)
 
-<div align="center">
+<br />
+<div>
         <img width="150" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199497913-2bdfa119-26de-4ba1-b9f7-0714b8bb21d0.png">
         <img width="250" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199499182-6c399c3c-68ba-4b87-b388-854148c1d0d9.png">
 </div>
+<br/>
 
-
-
-
-### Lavi
+## Lavi
+### Full Stack Engineer
+#### _JavaScript, Node.js, React, Postgres_
 A convenient search tool for finding the closest bathroom to your location immediately.
 
 [<img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="lavi github repository" />](https://github.com/joe-sacco/lavi)
 
-<div align="center">
+<br />
+<div style="margin-left:45 px;">
     
 <img width="150" alt="iOS_app-screen2_LAVI_230315" src="https://user-images.githubusercontent.com/102517425/225241803-70a08d75-4c8c-47ac-9708-3ece2d114c02.png">
 
