@@ -1,8 +1,8 @@
 ![github-header-image-black-on-white-js](https://user-images.githubusercontent.com/102517425/200754797-36ab76b0-33d6-4999-a151-e534326a09a8.png)
 
-As a bilingual Full Stack Software Engineer with a background in creative video production, I bring fifteen years of experience in managing content development for global clients. Currently, focused on full stack systems development, I collaborate with agile teams on AI applications that address social challenges. 
+I'm a bilingual Full Stack Software Developer and Creative Technologist with over 15 years of experience in Creative Video Production. I excel in team collaboration and project management, and have a passionate for learning and creating applications that make a difference.
 
-My mix of technical expertise and creative background fuels my passion for contributing to a fairer and more sustainable future. Adept at team collaboration and management, I love working on projects that challenge me professionally and spark positive change in how people interact with technology.
+I bring a creative approach to software development, dedicated to crafting solutions that solve real-world issues and enhance human interaction with technology. Currently, I'm dedicated to developing full stack AI applications aimed at tackling social challenges.
 
 
 # Skills
