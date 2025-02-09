@@ -1,8 +1,8 @@
 ![github-header-image-black-on-white-js](https://user-images.githubusercontent.com/102517425/200754797-36ab76b0-33d6-4999-a151-e534326a09a8.png)
 
-I'm a bilingual Full Stack Software Developer and Creative Technologist with over 15 years of experience in Creative Video Production. I excel in team collaboration and project management, and have a passionate for learning and creating applications that make a difference.
+I'm a bilingual Full Stack Software Developer and Creative Technologist with over 15 years of experience in Creative Video Production. I excel in team collaboration and project management, and have a passion for learning and creating applications that make a difference.
 
-I bring a creative approach to software development, dedicated to crafting solutions that solve real-world issues and enhance human interaction with technology. Currently, I'm dedicated to developing full stack AI applications aimed at tackling social challenges.
+I bring a creative approach to software development, dedicated to crafting solutions that solve real-world issues and enhance human interaction with technology. Currently, I'm developing full stack AI applications aimed at tackling social challenges.
 
 
 # Skills
@@ -50,8 +50,8 @@ I bring a creative approach to software development, dedicated to crafting solut
 
 ## IR Assistant
 ### **Full Stack Engineer - _current_**
-#### _Typescript, Node.js, Express, Go, Gin, PostgreSQL, Remix_
-An investor relations service utilizing Azure OpenAI's API and RAG to generate transcriptions, translations, and QA for shareholder and earnings presentations.
+#### Typescript, Python, Go, Node.js, Express, PostgreSQL, Remix/React
+Currently building and maintaining an Investor Relations app, utilizing OpenAI and Google Gemini APIs for　transcribing, translating and generating meeting documents for shareholder presentations.
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="ir-assistant-lp" />](https://exawizards.com/exabase/ir-assistant)
 
