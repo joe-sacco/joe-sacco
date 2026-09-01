@@ -1,31 +1,40 @@
 ![github-header-image-black-on-white-js](https://user-images.githubusercontent.com/102517425/200754797-36ab76b0-33d6-4999-a151-e534326a09a8.png)
 
-I'm a bilingual Full Stack Software Developer and Creative Technologist with over 15 years of experience in Creative Video Production. I excel in team collaboration and project management, and have a passion for learning and creating applications that make a difference.
+I'm a bilingual Full Stack Software Developer & Creative Technologist with a 15-year background in creative video production and media project management.
 
-I bring a creative approach to software development, dedicated to crafting solutions that solve real-world issues and enhance human interaction with technology. Currently, I'm developing full stack AI applications aimed at tackling social challenges.
+Currently building full-stack AI applications at Exa Enterprise AI, where I focus on crafting intelligent services that tackle complex societal challenges.
 
 
 # Skills
 
+## AI & LLMs
+<div>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="anthropic" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="google gemini" />
+  <img src="https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge&logo=&logoColor=white" alt="llm integration" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-109989?style=for-the-badge&logo=&logoColor=white" alt="prompt engineering" />
+</div>
+
 ## Languages
 <div>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 </div>
 
 ## Frameworks & Library
 <div>
     <h3> Backend </h3>
-    <img src="https://img.shields.io/badge/Django-044c34?style=for-the-badge&logo=django&logoColor=white" alt="django" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
+    <img src="https://img.shields.io/badge/Django-044c34?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi" />
     <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=&logoColor=white" alt="rest api" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi" />
 </div>
 
 <div>
@@ -36,22 +45,24 @@ I bring a creative approach to software development, dedicated to crafting solut
 </div>
 
 <div>
-    <h3> Other </h3>
+    <h3> DevOps & Hardware </h3>
     <img src="https://img.shields.io/badge/Docker-0874ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+    <img src="https://img.shields.io/badge/Argo_CD-EF6C00?style=for-the-badge&logo=argo&logoColor=white" alt="argo cd" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="github actions" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/Agile_Methodology-FFFF00?style=for-the-badge&logo=&logoColor=white" alt="agile methodology" />
+    <img src="https://img.shields.io/badge/MCP_Workflows-000000?style=for-the-badge&logo=&logoColor=white" alt="mcp workflows" />
+    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="raspberry pi" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
 </div>
 <br />
 <br />
 
-
-
 # Projects
 
 ## IR Assistant
-### **Full Stack Engineer - _current_**
-#### Typescript, Python, Go, Node.js, Express, PostgreSQL, Remix/React
-Currently building and maintaining an Investor Relations app, utilizing OpenAI and Google Gemini APIs for　transcribing, translating and generating meeting documents for shareholder presentations.
+### **Full Stack Engineer - AI Products**  _(current)_
+#### TypeScript, Python, Node.js, Express, PostgreSQL, Remix/React
+Currently building and maintaining an enterprise Investor Relations platform. Utilizing OpenAI and Google Gemini APIs alongside custom LLM integrations and prompt engineering to transcribe, translate, and generate executive meeting documents for shareholder presentations.
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="ir-assistant-lp" />](https://exawizards.com/exabase/ir-assistant)
 
@@ -59,37 +70,17 @@ Currently building and maintaining an Investor Relations app, utilizing OpenAI a
 <a href="https://exawizards.com/exabase/ir-assistant" target="_blank">
     <img width="680" alt="ir-assistant-landing-page" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/954a6436-a01b-4a37-be33-ea4b7f7df5b8">
 </a>
-</div>
-<br/>
 
-## Kataru
-### **Backend Engineer**
-#### _Python, Django, PostgreSQL_
-A creative writing app that eliminates writers block by challenging users to write daily through thought provoking prompts, rewarding them as they progress.
+<img width="763" height="173" alt="gh-2" src="https://github.com/user-attachments/assets/f22b4e6b-de7f-4823-b789-c2dadc8c675a" />
+<img width="756" height="171" alt="gh-1" src="https://github.com/user-attachments/assets/f86bcd5c-b541-46a4-8906-dcd3494bb85b" />
 
-<div>
-<img width="680" alt="kataru-homepage" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/fb120d61-db11-4426-96b6-16a93874b9cc">
-</div>
-<br/>
-
-## easyPoints
-### Full Stack Engineer
-#### _JavaScript, React, Elixir, Phoenix_
-A custom built Shopify rewards program that leverages customer loyalty and fuels e-commerce growth.
-
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="easyPoints app" />](https://apps.shopify.com/easy-points)
-
-<div>
-<a href="https://apps.shopify.com/easy-points" target="_blank">
-    <img width="680" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
-</a>
 </div>
 <br/>
 
 ## Ondo
 ### **Full Stack Engineer, Hardware Engineer, Product Owner**
-#### _Python, FastAPI, Raspberry Pi, Typescript, React_
-Ondo is an IoT device and online service that allows health care workers to monitor the temperature and humidity of elderly homes in order to ensure their safety during hot and cold months. Provides live SMS notifications when conditions inside the home become life threatening.
+#### _Python, FastAPI, Raspberry Pi, TypeScript, React_
+Ondo is an IoT environmental monitoring system and online service designed for healthcare workers to monitor temperature and humidity in elderly care settings. Provides real-time SMS alerts during extreme climate conditions to prevent heatstroke and cold-related illnesses.
 
 [<img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="ondo github repository" />](https://github.com/team-ondo)
 
@@ -103,10 +94,46 @@ Ondo is an IoT device and online service that allows health care workers to moni
 </div>
 <br/>
 
+## easyPoints
+### Full Stack Engineer
+#### _JavaScript, React, Elixir, Phoenix_
+A custom Shopify rewards program that leverages customer loyalty mechanics and automated point systems to fuel e-commerce growth.
+
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="easyPoints app" />](https://apps.shopify.com/easy-points)
+
+<div>
+<a href="https://apps.shopify.com/easy-points" target="_blank">
+    <img width="680" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/f5beed1b-1b6b-4175-98df-d63973b576a4" alt="easyPoints app">
+</a>
+</div>
+<br/>
+
+## Kataru
+### **Backend Engineer**
+#### _Python, Django, PostgreSQL_
+A creative writing app designed to eliminate writer's block by engaging users with daily prompt challenges and rewarding continuous writing streaks.
+
+<div>
+<img width="680" alt="kataru-homepage" src="https://github.com/joe-sacco/joe-sacco/assets/102517425/fb120d61-db11-4426-96b6-16a93874b9cc">
+</div>
+<br/>
+
+## Chime
+### Full Stack Engineer, Hardware Engineer
+#### _Python, FastAPI, JavaScript, React, Arduino/C++_
+An interactive IoT electronic chime device that processes local weather data to trigger custom wind-controlled musical scales remotely.
+
+<br />
+<div>
+        <img width="150" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199497913-2bdfa119-26de-4ba1-b9f7-0714b8bb21d0.png">
+        <img width="250" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199499182-6c399c3c-68ba-4b87-b388-854148c1d0d9.png">
+</div>
+<br/>
+
 ## mymizu
-### Frontend Engineer _- hackathon_
+### Software Engineer _- hackathon_
 #### _JavaScript, React_
-A free water refill app - we’re building a world with cleaner oceans, healthier ecosystems and happier people.
+A community-driven water refill platform designed to reduce single-use plastic waste across Japan through interactive map tracking.
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mymizu app" />](https://map.mymizu.co/)
 
@@ -117,20 +144,6 @@ A free water refill app - we’re building a world with cleaner oceans, healthie
 </a>
 </div>
 <br/>
-
-## Chime
-### Full Stack Engineer, Hardware Engineer
-#### _Python, FastAPI, JavaScript, React, Arduino/C++_
-Chime is a wind controlled IoT electronic chime device that connects to the internet allowing users to remotely select various musical scales.
-
-
-<br />
-<div>
-        <img width="150" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199497913-2bdfa119-26de-4ba1-b9f7-0714b8bb21d0.png">
-        <img width="250" alt="chime_iphone" src="https://user-images.githubusercontent.com/102517425/199499182-6c399c3c-68ba-4b87-b388-854148c1d0d9.png">
-</div>
-<br/>
-
 ## Contact
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />](https://github.com/joe-sacco)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />](https://www.linkedin.com/in/joe-sacco/) 
