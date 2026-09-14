@@ -60,7 +60,7 @@ Currently building full-stack AI applications at Exa Enterprise AI, where I focu
 # Projects
 
 ## IR Assistant
-### **Full Stack Engineer - AI Products**  _(current)_
+### **Full Stack Engineer - AI Applications**  _(current)_
 #### TypeScript, Python, Node.js, Express, PostgreSQL, Remix/React
 Currently building and maintaining an enterprise Investor Relations platform. Utilizing OpenAI and Google Gemini APIs alongside custom LLM integrations and prompt engineering to transcribe, translate, and generate executive meeting documents for shareholder presentations.
 
